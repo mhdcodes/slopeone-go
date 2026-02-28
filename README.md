@@ -3,7 +3,8 @@
 [![Go](https://github.com/mhdcodes/slopeone-go/actions/workflows/go.yml/badge.svg)](https://github.com/mhdcodes/slopeone-go/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mhdcodes/slopeone-go)](https://goreportcard.com/report/github.com/mhdcodes/slopeone-go)
 [![GoDoc](https://pkg.go.dev/badge/github.com/mhdcodes/slopeone-go.svg)](https://pkg.go.dev/github.com/mhdcodes/slopeone-go)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Go implementation of the **weighted slope one** rating-based collaborative filtering scheme.
 
